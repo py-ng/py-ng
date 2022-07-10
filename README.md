@@ -1,16 +1,26 @@
-### Hi there 👋
+<p align="center"><strong>Priyank N</strong> <br>
+<em>Designer & Developer</em></p>
 
-<!--
-**py-ng/py-ng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=py-ng&label=Profile%20Views&color=42f048&style=flat" alt="py-ng" /> </p>
 
-Here are some ideas to get you started:
+<table align="center" style="border-radius:1em">
+<thead>
+  <tr>
+    <th colspan="3"><a href="https://pyng.win" target="_blank">🌐 My Website 🌐</a></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td><a href="https://pyng.win/about" target="_blank">👨🏻‍💻 About Me</a></td>
+    <td><a href="https://pyng.win/services" target="_blank">💻 My Services</a></td>
+    <td><a href="https://pyng.win/contact" target="_blank">✉️ Contact Me</a></td>
+  </tr>
+</tbody>
+</table>
+<div align="center">
+Connect with me on: <br>
+<a href="https://linkedin.com/in/py-ng" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="py-ng" height="20" width="20" /></a>
+</div>
+<hr>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=py-ng&theme=dark" alt="py-ng" /></p>
