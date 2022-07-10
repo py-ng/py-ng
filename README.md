@@ -23,4 +23,4 @@ Connect with me on: <br>
 </div>
 <hr>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=py-ng&theme=dark" alt="py-ng" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=py-ng&theme=dark" alt="py-ng" /></p>
